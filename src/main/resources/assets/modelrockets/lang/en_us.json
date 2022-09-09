@@ -1,5 +1,11 @@
 {
   "itemGroup.modelrockets.modelrocketsgroup": "Gummy's Model Rockets",
-  "item.modelrockets.irondust": "Iron Dust",
-  "item.modelrockets.salt": "Salt"
+  "item.modelrockets.iron_dust": "Iron Dust",
+  "item.modelrockets.iron_oxide": "Iron Oxide",
+  "item.modelrockets.salt": "Salt",
+  "item.modelrockets.salty_water_bucket": "Salty Water Bucket",
+  "item.modelrockets.potassium_nitrate": "Potassium Nitrate",
+  "item.modelrockets.ammonium_nitrate": "Ammonium Nitrate",
+  "item.modelrockets.sodium_nitrate": "Sodium Nitrate",
+  "item.modelrockets.dextrin": "Dextrin"
 }

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IWI",
+    "III"
+  ],
+  "key": {
+    "W": [
+      {
+        "item": "minecraft:water_bucket"
+      },
+      {
+        "item": "modelrockets:salty_water_bucket"
+      }
+    ],
+    "I": {
+      "item": "modelrockets:iron_dust"
+    }
+  },
+  "result": {
+    "item": "modelrockets:iron_oxide",
+    "count": 8
+  }
+}
+

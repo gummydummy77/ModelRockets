@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modelrockets:salty_water_bucket"
+    }
+  ],
+  "result": {
+    "item" : "modelrockets:salt"
+  }
+}
+

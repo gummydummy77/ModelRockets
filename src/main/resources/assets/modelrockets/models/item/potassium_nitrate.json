@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "modelrockets:item/irondust"
+    "layer0": "modelrockets:item/potassium_nitrate"
   }
 }

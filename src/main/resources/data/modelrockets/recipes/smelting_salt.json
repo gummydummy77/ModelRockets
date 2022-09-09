@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+      "item": "modelrockets:salty_water_bucket"
+  },
+
+  "result": "modelrockets:salt",
+  "experience" : 0.25,
+  "cookingtime": 200
+}
+

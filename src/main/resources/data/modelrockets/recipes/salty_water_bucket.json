@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    [
+      {
+        "item": "modelrockets:salt"
+      },
+      {
+        "item": "modelrockets:sodium_nitrate"
+      }
+    ]
+  ],
+  "result": {
+    "item": "modelrockets:salty_water_bucket"
+  }
+}
